@@ -1,0 +1,18 @@
+body {
+  background-color: black;
+  color: white;
+  text-shadow: 5cm;
+  text-align: center;
+  font-size: 25px;
+  font-family: monospace;
+  font-weight: bold;
+  padding: 250px;
+}
+
+button {
+  font-size: 25px;
+  font-family: monospace;
+  background-color: white;
+  color: black;
+  border-radius: 10px;
+}
